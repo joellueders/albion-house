@@ -1,5 +1,7 @@
 # Albion House
 
+old! see https://github.com/albion-house/albion-house for the new version
+
 Amber-text portfolio site for Albion House game projects.
 
 The page is a single static `index.html` designed to feel like early-90s software running on an Apple IIe:
